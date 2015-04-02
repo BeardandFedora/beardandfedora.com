@@ -502,3 +502,5 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+.tooltip {font-size: 1.2em;}
