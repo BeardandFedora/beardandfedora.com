@@ -91,4 +91,4 @@ location:
   - line: <a href="http://twitter.com/thinq4yourself" target="blank" class="text-danger">Fedora</a> | <i class="fa fa-map-marker text-danger"></i> On The Road
 
 # Credits content
-credits: 'This is <a href="https://github.com/BeardandFedora/dotcom" target="blank">free to use</a>, <a href="http://opensource.org/" target="blank">open source</a>, and in the <a href="https://creativecommons.org" target="blank">creative commons</a>. Built using Jekyll, Bootstrap, Font Awesome, and Github.'
+credits: 'This is <a href="https://github.com/BeardandFedora/dotcom" target="blank">free to use</a>, <a href="http://opensource.org/" target="blank">open source</a>, and in the <a href="https://creativecommons.org" target="blank">creative commons</a>. Built using Jekyll, Bootstrap, Flat UI, and Github.'

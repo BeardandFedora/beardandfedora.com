@@ -1,10 +1,10 @@
 ---
 layout: default
 modal-id: 7
-date: 2014-04-25
+date: 2014-03-25
 img: unforgettable.png
 alt: Make Your Next Trip Unforgettable
-project-date: April 2014
+project-date: March 2014
 project: Helping people to find and live their passion.
 siteurl: http://tylergoelz.com
 category: Transformed Beard's Life
